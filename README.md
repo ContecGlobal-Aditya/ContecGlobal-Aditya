@@ -1,7 +1,7 @@
 ### Hi 👋, I'm 
 
 <h3 align="center">
-   <img alt="Aditya Narayan Singh" src="https://readme-typing-svg.herokuapp.com/?lines=Aditya+Narayan+Singh;.net+Full-Stack+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Aditya Narayan Singh" src="https://readme-typing-svg.herokuapp.com/?lines=Aditya+Narayan+Singh;Full-Stack+developer+(.net)&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 # 💫 About Me:
